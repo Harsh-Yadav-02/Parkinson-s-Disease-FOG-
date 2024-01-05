@@ -25,4 +25,13 @@ wheelchair use, and have restricted independence.
 
 **My Goal was not limited to detect freezing of gait (FOG) using data collected from a wearable
 3D lower back sensor, but also to classify which event is triggering FoG to occur.** My work will
-help researchers better understand when and why FOG episodes occur. This will impro
+help researchers better understand when and why FOG episodes occur. This will improve the ability
+of medical professionals to optimally evaluate, monitor, and ultimately, prevent FOG events.
+
+**Kindly check the Report named as "Report_DM" for deeper insights.**
+
+<br>
+
+<p align="center">
+    <img src="https://github.com/Harsh-Yadav-02/Parkinson-s-Disease-FOG-/assets/75542099/0840405d-9397-4e86-9f2a-b72cf621a671" alt="Image 2">
+</p>
